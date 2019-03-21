@@ -1,0 +1,83 @@
+@import '_vars';
+@import 'modules/_home';
+@import 'modules/_user';
+
+a{text-decoration: none;
+  color: white;
+  text-transform: uppercase;
+}
+
+.navbar-nav .nav-link {
+    color: grey;
+    margin-left: 185px;
+    padding-right: 35px;
+    font-size: 20px;
+}
+
+.collapse navbar-collapse{
+    background: black;
+}
+
+.navbar-nav .nav-link:hover{
+    color:red;
+}
+.card-sec{
+    background-color: #f8f9fa;
+}
+
+.sec-2{
+     margin-top:60px; 
+}
+
+.card-deck{
+    margin-top:60px; 
+}
+
+footer{
+    margin-top: 45px;
+}
+
+.footer-main-div{
+ width:100%;
+ background:#272727;
+ padding: 20px 0px;  
+}
+
+li {
+    display: inline-block;
+}
+
+i{
+    width: 105px;
+    
+}
+
+footer p{
+    color: grey;
+    text-align: center;
+    margin-top: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
